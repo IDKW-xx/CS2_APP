@@ -3,8 +3,9 @@ DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
     'password':'',
-    'database':'cs2_db',
+    'database':'cs2_skins',
     'charset':'utf8mb4',
 }
 DEEPSEEK_API_KEY = ""
+
 
